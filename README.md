@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Designed for Mobile View Only
 
-Link : https://mini-ecommerce-manvendra.vercel.app/
-
+[Link : https://mini-ecommerce-manvendra.vercel.app/
+](https://ecommerce-7051g7jxs-vibhas-projects-a8f5ac94.vercel.app/)
 ## Getting Started
 
 First, run the development server:
